@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Site Analyzer",
+  "description": "A tool to analyze lists of websites using Gemini with Google Search Grounding to determine if they are e-commerce stores.",
+  "requestFramePermissions": []
+}
